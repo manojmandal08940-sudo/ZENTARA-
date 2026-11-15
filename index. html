@@ -1,0 +1,69 @@
+<!DOCTYPE html>
+<html lang="hi">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>ZENTARA - By DIGISPAK</title>
+<style>
+*{margin:0;padding:0;box-sizing:border-box;font-family:'Segoe UI',Arial,sans-serif}
+body{background:#050816;color:white;text-align:center}
+header{padding:20px}
+.logo{font-size:38px;font-weight:900;letter-spacing:4px;background:linear-gradient(90deg,#00f0ff,#a855f7,#ff00aa);-webkit-background-clip:text;-webkit-text-fill-color:transparent}
+.tag{color:#aaa;font-size:13px;letter-spacing:2px;margin-top:2px}
+.hero{padding:50px 20px}
+.hero h1{font-size:32px;line-height:1.2}
+.hero h1 span{color:#00f0ff}
+.hero p{color:#bbb;margin:18px 0;line-height:1.6;font-size:15px}
+.btn{display:inline-block;background:#25D366;color:white;padding:15px 28px;border-radius:50px;text-decoration:none;font-weight:bold;font-size:16px;margin:8px}
+.btn2{background:white;color:black}
+.box{background:#0f1530;margin:15px;padding:22px;border-radius:18px;text-align:left;border:1px solid #222}
+.box h3{font-size:18px;margin-bottom:8px}
+.box p{color:#aaa;font-size:14px;line-height:1.5}
+.price{color:#00f0ff;font-weight:bold;margin-top:10px}
+footer{padding:25px;color:#777;font-size:12px}
+</style>
+</head>
+<body>
+<header>
+<div class="logo">ZENTARA</div>
+<div class="tag">BY DIGISPAK • JAGATSINGHPUR</div>
+</header>
+
+<div class="hero">
+<h1>Apna Business <br><span>Online Le Jao</span></h1>
+<p>Website • Visiting Card • Poster • Bank Loan Ke Liye Profile<br>Sab Kuch Ek Jagah - Sasta Aur Fast</p>
+<a class="btn" href="https://wa.me/919337043811?text=Hi%20ZENTARA!%20Mujhe%20Website%20Banani%20Hai">WhatsApp Pe Baat Karo</a><br>
+<a class="btn btn2" href="tel:919337043811">Call Karo</a>
+</div>
+
+<div class="box">
+<h3>🌐 Business Website</h3>
+<p>Bank, Customer Aur Google Ke Liye Professional Website. 2 Din Me Ready.</p>
+<div class="price">Sirf ₹1,499 Se Shuru</div>
+</div>
+
+<div class="box">
+<h3>💳 Digital Visiting Card</h3>
+<p>Ek Link Me Tumhara Naam, Photo, WhatsApp, Location - Sab Kuch.</p>
+<div class="price">Sirf ₹499</div>
+</div>
+
+<div class="box">
+<h3>📄 Bank Loan Profile / Project Report</h3>
+<p>Loan Ke Liye Sahi Format Me Business Profile Banake Dete Hain.</p>
+<div class="price">Sirf ₹999</div>
+</div>
+
+<div class="box">
+<h3>🎨 Poster & Banner Design</h3>
+<p>Dukaan, Offer, Festival Ke Liye Sundar Poster.</p>
+<div class="price">Sirf ₹199</div>
+</div>
+
+<footer>
+© 2026 ZENTARA - By DIGISPAK<br>
+Jagatsinghpur, Odisha<br>
+Made With ❤️ In India
+</footer>
+</body>
+</html>
